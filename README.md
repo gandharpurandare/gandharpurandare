@@ -1,1 +1,1 @@
-## Welcome to Ganndhar's codespace.
+## Welcome to Gandhar's codespace.
